@@ -1,6 +1,6 @@
 # 😄 Qui suis-je ? 
 
-Je m'appel Adrien et je suis passionné par l'administration de systèmes Linux et surtout par son automatisation.
+Je m'appelle Adrien et je suis passionné par l'administration de systèmes Linux et surtout par son automatisation.
 
 je suis actuellement en deuxième année de master informatique option ingénierie des systèmes et réseaux informatique.
 
